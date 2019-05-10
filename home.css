@@ -11,3 +11,17 @@ body {
   margin-left: 50px; /* This is for just giving margin at left side so circle can move a little left same for top*/
   margin-top: 50px;
 }
+
+.rectangle {
+  border: 5px solid black;
+  width: 230px;
+  height: 200px;
+  margin: 50px;
+}
+
+.square {
+  border: 5px solid red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
