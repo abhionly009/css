@@ -1,4 +1,13 @@
-body{
-    margin: 0%;
-    background-color: aquamarine;
+body {
+  margin: 0%;
+  background-color: aquamarine;
+}
+.circle {
+  background-color: brown;
+  border: 4px solid black;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 50px; /* This is for just giving margin at left side so circle can move a little left same for top*/
+  margin-top: 50px;
 }
